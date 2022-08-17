@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "moneyDay",
+    "slug": "moneyDay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
